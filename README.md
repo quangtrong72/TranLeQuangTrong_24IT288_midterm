@@ -4,7 +4,7 @@
 
 - Họ và tên: Trần Lê Quang Trọng
 - Mã sinh viên: 24IT288
-- Lớp: 24IT2
+- Lớp: 24SE2
 - Tên đề tài: Implementing a Simplified ls(1)
 - Ngôn ngữ lập trình: C
 - Môi trường phát triển: Ubuntu Linux
